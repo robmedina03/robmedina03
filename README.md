@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 🤝 I’m looking for help with **JavaScript and React**
-
 - 💬 Ask me about **React , JavaScript , SQL , Agile,**
 
 - 📫 How to reach me **Robmedina03@gmail.com**
